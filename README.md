@@ -2,7 +2,7 @@
 
 #How to use it
 ===
-1. git clone this repository(with node_module)
+1. git clone git@github.com:ManuRodgers/Chromatix-node.git (with node_module)
 2. yarn add async (solve the issue that I found after test)
 3. yarn start (for start the node server)
 4. http://localhost:8080/   (with chrome or postman)
